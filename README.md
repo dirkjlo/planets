@@ -2,6 +2,6 @@
 
 this is an application for planet enthousiasts
 
-## 2. Conritbution
+## 2. Contribution
 
 current contributions are limited to mars and venus
